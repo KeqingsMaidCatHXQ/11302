@@ -8,6 +8,6 @@
 | 項次 | 項目 | 內容 |
 |----:|------|------|
 |1 | 圖片 | <img src="keqing.jpg" width="100" height="100"/>|
-|2 | 姓名 | 邱淼峰 |
+|2 | 暱稱 | 紅曉晴 |
 |3 | 職稱 | YouTuber |
 |4 | 網址 | <img src="YTlink.png" width="100" height="100"/>|
