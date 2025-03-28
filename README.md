@@ -17,3 +17,14 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UY0R5YgZi5A" target="_blank"><img src="http://img.youtube.com/vi/UY0R5YgZi5A/0.jpg" 
 alt="【歌回精華】oblivious【露熙妲 Luxida】【中/日字幕】" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
+
+<details>
+<summary>
+
+## 2025【台中國際動漫節】
+
+</summary>
+(一)、 展出日期：2025年4月3日（四）至4月6日（日），共4天<br>
+(二)、 展出地點：臺中國際展覽館（台中市烏日區中山路三段1號）<br>
+
+</details>
